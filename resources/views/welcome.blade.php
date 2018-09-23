@@ -36,9 +36,6 @@
                 <li><a href="#about"><i class="fa fa-user"></i>About Me</a></li>
                 <li><a href="#projects"><i class="fa fa-newspaper-o"></i>My Gallery</a></li>
                 <li><a href="#contact"><i class="fa fa-envelope"></i>Contact Me</a></li>
-                <li><a href="#contact"><i class="fa fa-magic"></i>Contact Me</a></li>
-                <li><a href="#contact"><i class="fa fa-envelope"></i>Contact Me</a></li>
-                <li><a href="#contact"><i class="fa fa-envelope"></i>Contact Me</a></li>
             </ul>
         </div>
     </div>
