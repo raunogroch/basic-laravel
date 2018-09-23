@@ -35,7 +35,7 @@
                 <li><a href="#top"><i class="fa fa-home"></i>Home</a></li>
                 <li><a href="#about"><i class="fa fa-user"></i>About Me</a></li>
                 <li><a href="#projects"><i class="fa fa-newspaper-o"></i>My Gallery</a></li>
-                <li><a href="#contact"><i class="fa fa-envelope"></i>Contactate conmigo</a></li>
+                <li><a href="#contact"><i class="fa fa-envelope"></i>Contact me.</a></li>
             </ul>
         </div>
     </div>
